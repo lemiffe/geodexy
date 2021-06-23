@@ -9,7 +9,7 @@ Includes layers that can be turned on/off to provide additional information for 
 * `npm install`
 * `npm start`
 * `npm run build`
-* Develop in `/src/` and serve (on Github pages) from `/build/`
+* Develop in `/src/` and serve (on Github pages) from `/docs/`
 * Remember to build before committing + pushing changes (static!)
 
 ### Sources & References

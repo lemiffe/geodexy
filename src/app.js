@@ -535,4 +535,24 @@ Todos:
 - Theme/CSS
 - Hover colours + onclick
 - Information
+
+Diacritics:
+- french: ç ,ë, è, é, ï and à
+- german: ä, ü, ö and ß
+- greek: α, β, γ and δ
+- norway: æ, ø and å.
+- finland: ä and double letters
+- sweden: å, ä and ö.
+- estonia: Š,Ž,Ä,Ü,ö,õ
+- latvia: ļ, ķ, ņ, ā, ē, ī, ō, ū, ž
+- poland: ó, ł, ż, ś, ȩ and ń
+- lithuania: ė ,š, ž, ū and č.
+- slovakia: á, é, í, ý, č, š,ä, ľ, ĺ, ŕ, ô, dž and ž
+- czech: á, é, ý, č, š, ž, ě, ů and ř
+- hungary: é, á, í, ó, ú, ü, ő and ö
+- slovenia: ž, š and č. (plus some J's)
+- croatia: š, ć and č
+- romania: ş, ƫ, ă and ȃ
+- turkey: ö, ı, ğ and ş
+- albania: ë and ç
 */
