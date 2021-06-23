@@ -8,7 +8,7 @@ Includes layers that can be turned on/off to provide additional information for 
 
 * `npm install`
 * `npm start`
-* `npm build`
+* `npm run build`
 * Develop in `/src/` and serve (on Github pages) from `/build/`
 * Remember to build before committing + pushing changes (static!)
 
