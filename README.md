@@ -4,6 +4,14 @@ Simple map-based guide for Geoguessr.
 
 Includes layers that can be turned on/off to provide additional information for all countries available in Geoguessr. It differs slightly from other guides as it starts from the map providing an easy way to jump between countries, as opposed to containing information categorised per continent or per category (bollards, chevrons, driving side, etc.)
 
+### Development
+
+* `npm install`
+* `npm start`
+* `npm build`
+* Develop in `/src/` and serve (on Github pages) from `/build/`
+* Remember to build before committing + pushing changes (static!)
+
 ### Sources & References
 
 * Flags: https://github.com/hampusborgos/country-flags/
