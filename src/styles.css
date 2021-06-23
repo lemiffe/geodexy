@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  position: relative;
+}
+
+.world-map__country--interactive {
+  cursor: pointer;
+  stroke: rgba(0, 0, 0, 0);
+  transition: 0.2s all ease-in-out;
+}
+
+.world-map__country--interactive:hover {
+  fill: #b09582;
+  stroke: #6e572b;
+}

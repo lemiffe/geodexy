@@ -1,3 +1,5 @@
+import svg from "./svg.js";
+
 const countries = [
     "af",
     "al",
@@ -499,6 +501,13 @@ const countryNamesMap = {
     zw: "ZIMBABWE",
 };
 
+const countryData = {
+    es: {},
+    fr: {},
+};
+
+svg(countryNamesMap);
+
 /*
 
 Fields per country:
@@ -507,6 +516,7 @@ Fields per country:
 - Capital (+ largest cities)
 - Driving side
 - Alphabet
+  - Dicritics
 - Bollards
 - Chevrons
 - License Plates
@@ -525,5 +535,4 @@ Todos:
 - Theme/CSS
 - Hover colours + onclick
 - Information
-
 */
